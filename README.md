@@ -77,3 +77,10 @@
 ## Acknowledgment
 
 Part of the code refers to the open-sourced project [Autoware](https://github.com/Autoware-AI/autoware.ai)
+
+## Related projects in pure ROS (Melodic) 
+
+* [ROS_NDT_Localizer](https://github.com/leofansq/ROS_NDT_Localizer)
+* [ROS_Waypoints_Processor](https://github.com/leofansq/ROS_Waypoints_Processor)
+* [ROS_Pure_Pursuit](https://github.com/leofansq/ROS_Pure_Pursuit)
+* [ROS_Object_Cluster](https://github.com/leofansq/ROS_Object_Cluster)
