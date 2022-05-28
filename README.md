@@ -73,3 +73,7 @@
   ```bash
   rosbag play offline_testing.bag
   ```
+
+## Acknowledgment
+
+Part of the code refers to the open-sourced project [Autoware](https://github.com/Autoware-AI/autoware.ai)
